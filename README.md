@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @midhun-pj
 - 👀 I’m interested in Front end
+- 👀 I expertise in Angular
 - 🌱 I’m currently learning NodeJS, React
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me: midhunjayan.official@gmail.com
